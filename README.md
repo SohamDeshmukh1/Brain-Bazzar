@@ -12,16 +12,18 @@ Brain Bazaar is a comprehensive online platform designed to provide precise stud
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Capture](https://github.com/SohamDeshmukh1/Brain-Bazzar/assets/131663742/4b370191-7fed-4185-9741-e7e70fe6aafa)
+
+
+##
 
 ### Study Materials
-![Study Materials](screenshots/study_materials.png)
+![Capture1](https://github.com/SohamDeshmukh1/Brain-Bazzar/assets/131663742/1a34c1b5-606d-4a48-ac75-ff22a2b5a8b5)
+
+##
 
 ### Question Banks
-![Question Banks](screenshots/question_banks.png)
-
-### Microprojects
-![Microprojects](screenshots/microprojects.png)
+![Capture3](https://github.com/SohamDeshmukh1/Brain-Bazzar/assets/131663742/3e17a85d-fe6f-4ec9-bb3c-b7cdd347c6bc)
 
 ## Getting Started
 
